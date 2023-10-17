@@ -96,7 +96,7 @@ function nav (): DefaultTheme.NavItem[] {
                 },
                 {
                     text: 'Contributing',
-                    link: 'https://github.com/formlinkjs/formlink/blob/main/.github/contributing.md'
+                    link: 'https://github.com/formlinkjs/formlink/blob/main/.github/CONTRIBUTING.md'
                 }
             ]
         }
