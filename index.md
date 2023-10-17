@@ -16,7 +16,7 @@ hero:
       text: View on GitHub
       link: https://github.com/formlinkjs/formlink
   image:
-    src: /hero-logo.png
+    src: /hero.png
     alt: Formlink
 
 features:
