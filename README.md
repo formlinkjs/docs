@@ -1,4 +1,4 @@
-[![Formlink](https://github.com/formlinkjs/formlink/blob/main/public/Banner.png)](https://formlinkjs.com/)
+[![Formlink](https://github.com/formlinkjs/docs/blob/main/public/Banner.png)](https://formlinkjs.com/)
 
 # Formlink | API Reference
 
